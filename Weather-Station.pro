@@ -1,4 +1,4 @@
-update=Thứ sáu, 16 Tháng sáu Năm 2017 09:04:01 +07
+update=Thứ hai, 19 Tháng sáu Năm 2017 08:10:20 +07
 version=1
 last_client=kicad
 [pcbnew]
@@ -23,8 +23,6 @@ ModuleOutlineThickness=0.150000000000
 [cvpcb]
 version=1
 NetIExt=net
-[general]
-version=1
 [eeschema]
 version=1
 LibDir=
@@ -58,4 +56,5 @@ LibName26=opto
 LibName27=atmel
 LibName28=contrib
 LibName29=valves
-LibName30=/home/ducvinh/Desktop/kicad_libs/sim800c
+[general]
+version=1
